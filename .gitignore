@@ -15,7 +15,6 @@ jspm_packages
 .npm
 .node_repl_history
 .DS_Store
-server/assets/*
 .env
 todo.txt
 .idea
